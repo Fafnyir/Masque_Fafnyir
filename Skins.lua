@@ -7,14 +7,11 @@ if not Masque then return end
 local BasePath = "Interface\\AddOns\\Masque_Fafnyir\\Textures\\"
 
 
--- Icon padding
+-- Padding
 local ICON_PAD_NORMAL = { 0.07, 0.93, 0.07, 0.93 }
-local ICON_PAD_CIRCLE = { 0.08, 0.92, 0.08, 0.92 }
 
--- Cooldown insets
+-- Cooldown
 local COOLDOWN_INSET_NORMAL = 4
-local COOLDOWN_INSET_SQUAT  = 3
-local COOLDOWN_INSET_CIRCLE = 6
 
 local function RegisterSkin(name, width, height)
     local skin = {
