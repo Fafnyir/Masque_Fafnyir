@@ -3,8 +3,9 @@
 ## Notes: Skin for Masque
 ## Category-enUS: |cFF0070DDFafnyirs|r |cFFFFFFFFHoard|r
 ## Author: Fafnyir
-## Version: 1.0.0
+## Version: 1.0.1
 ## Dependencies: Masque
 ## IconTexture: Interface\AddOns\Masque_Fafnyir\Logo\AddonLogo
+
 
 Skins.lua
