@@ -52,5 +52,7 @@ local function RegisterSkin(name, width, height, backdropTexture)
 end
 
 -- Register skins
-RegisterSkin("Fafnyir", 36, 36, "Backdrop")
+RegisterSkin("Fafnyir (Logo)", 36, 36, "Backdrop_Fafnyir")
 --RegisterSkin("Luxthos", 36, 36, "Backdrop_Lux")
+RegisterSkin("Fafnyir (WoW)", 36, 36, "Backdrop_WoW")
+RegisterSkin("Fafnyir", 36, 36, "Backdrop")
