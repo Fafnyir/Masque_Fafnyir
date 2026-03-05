@@ -53,6 +53,6 @@ end
 
 -- Register skins
 RegisterSkin("Fafnyir (Logo)", 36, 36, "Backdrop_Fafnyir")
---RegisterSkin("Luxthos", 36, 36, "Backdrop_Lux")
+RegisterSkin("Fafnyir (Dark)", 36, 36, "Backdrop_Dark")
 RegisterSkin("Fafnyir (WoW)", 36, 36, "Backdrop_WoW")
 RegisterSkin("Fafnyir", 36, 36, "Backdrop")
