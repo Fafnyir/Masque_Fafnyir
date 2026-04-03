@@ -4,6 +4,7 @@
 ## Category-enUS: |cFF6600CCFafnyirs|r |cFFFFFFFFHoard|r
 ## Author: Fafnyir
 ## Version: 1.0.1
+## X-Wago-ID: 
 ## Dependencies: Masque
 ## IconTexture: Interface\AddOns\Masque_Fafnyir\Logo\AddonLogo
 
