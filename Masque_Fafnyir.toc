@@ -4,7 +4,11 @@
 ## Category-enUS: |cFF6600CCFafnyirs|r |cFFFFFFFFHoard|r
 ## Author: Fafnyir
 ## Version: 1.0.1
+<<<<<<< HEAD
 ## X-Wago-ID: EGPe5kN1
+=======
+## X-Wago-ID: 
+>>>>>>> b14a6145354e7f2840679f5d8f0c748c5edc2265
 ## Dependencies: Masque
 ## IconTexture: Interface\AddOns\Masque_Fafnyir\Logo\AddonLogo
 
