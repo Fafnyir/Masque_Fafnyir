@@ -3,7 +3,7 @@
 ## Notes: Skin for Masque
 ## Category-enUS: |cFF6600CCFafnyirs|r |cFFFFFFFFHoard|r
 ## Author: Fafnyir
-## Version: v1.0.1
+## Version: v1.0.2
 ## X-Wago-ID: EGPe5kN1
 ## Dependencies: Masque
 ## IconTexture: Interface\AddOns\Masque_Fafnyir\Logo\AddonLogo

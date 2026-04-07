@@ -11,7 +11,7 @@ local BasePath = "Interface\\AddOns\\Masque_Fafnyir\\Textures\\"
 local ICON_PAD_NORMAL = { 0.07, 0.93, 0.07, 0.93 }
 
 -- Cooldown inset
-local COOLDOWN_INSET_NORMAL = 4
+local COOLDOWN_INSET_NORMAL = 1
 
 -- Register a skin
 local function RegisterSkin(name, width, height, backdropTexture)
