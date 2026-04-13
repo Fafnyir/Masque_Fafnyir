@@ -5,6 +5,7 @@
 ## Author: Fafnyir
 ## Version: v1.0.2
 ## X-Wago-ID: EGPe5kN1
+## X-Curse-Project-ID: 1513542
 ## Dependencies: Masque
 ## IconTexture: Interface\AddOns\Masque_Fafnyir\Logo\AddonLogo
 
