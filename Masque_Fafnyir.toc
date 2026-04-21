@@ -1,4 +1,4 @@
-## Interface: 120000, 120001
+## Interface: 120005, 120001, 120000
 ## Title: Masque: |cFF6600CCFafnyir|r
 ## Notes: Skin for Masque
 ## Category-enUS: |cFF6600CCFafnyirs|r |cFFFFFFFFHoard|r
